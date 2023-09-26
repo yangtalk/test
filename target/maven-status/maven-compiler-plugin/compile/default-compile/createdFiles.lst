@@ -1,0 +1,14 @@
+com\duoyi\basicapi\sink\PrintSink.class
+cn\doitedu\flink\avro\schema\AvroEventLog$1.class
+com\duoyi\pojo\AvroEventLog$Builder.class
+com\duoyi\pojo\AvroEventLog.class
+com\duoyi\basicapi\sink\StreamFileSink.class
+com\duoyi\pojo\AvroEventLog$1.class
+AvroEventLog$Builder.class
+com\duoyi\basicapi\sink\FileSink.class
+com\duoyi\basicapi\sink\StreamFileSinkAvroToHdfs_way1.class
+cn\doitedu\flink\avro\schema\AvroEventLog.class
+AvroEventLog.class
+cn\doitedu\flink\avro\schema\AvroEventLog$Builder.class
+AvroEventLog$1.class
+com\duoyi\pojo\EventLog.class
